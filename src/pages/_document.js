@@ -32,14 +32,14 @@ export default class MyDocument extends Document {
       <Html lang='en-GB'>
         <Head>
           <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
-          <meta name="title" content="Ahsan Muneer - React Native & React Dev" />
-          <meta name="description" content="Hey there, This is Ahsan Muneer. Inquisitive and Highly-motivated software engineer, with strong web and mobile application skills. Forward-thinker by nature and loves to code. Spends most of my time learning and experimenting with anything that looks promising.   " />
+          <meta name="title" content="Syed Roshaan Ali - React Native, ReactJS & NextJS Dev" />
+          <meta name="description" content="Hey there, This is Syed Roshaan Ali. Inquisitive and Highly-motivated software engineer, with strong web and mobile application skills. Forward-thinker by nature and loves to code. Spends most of my time learning and experimenting with anything that looks promising.   " />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Ahsan Muneer - React Native & React Dev" />
-          <meta property="og:description" content="Hey there, This is Ahsan Muneer. Inquisitive and Highly-motivated software engineer, with strong web and mobile application skills. Forward-thinker by nature and loves to code. Spends most of my time learning and experimenting with anything that looks promising.   " />
+          <meta property="og:title" content="Syed Roshaan Ali - React Native, ReactJS & NextJS Dev" />
+          <meta property="og:description" content="Hey there, This is Syed Roshaan Ali. Inquisitive and Highly-motivated software engineer, with strong web and mobile application skills. Forward-thinker by nature and loves to code. Spends most of my time learning and experimenting with anything that looks promising.   " />
           <meta property="twitter:card" content="summary_large_image" />
-          <meta property="twitter:title" content="Ahsan Muneer - React Native & React Dev" />
-          <meta property="twitter:description" content="Hey there, This is Ahsan Muneer. Inquisitive and Highly-motivated software engineer, with strong web and mobile application skills. Forward-thinker by nature and loves to code. Spends most of my time learning and experimenting with anything that looks promising.   " />
+          <meta property="twitter:title" content="Syed Roshaan Ali - React Native, ReactJS & NextJS Dev" />
+          <meta property="twitter:description" content="Hey there, This is Syed Roshaan Ali. Inquisitive and Highly-motivated software engineer, with strong web and mobile application skills. Forward-thinker by nature and loves to code. Spends most of my time learning and experimenting with anything that looks promising.   " />
        
         </Head>
         <body>

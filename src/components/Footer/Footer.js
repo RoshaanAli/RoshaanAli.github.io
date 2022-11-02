@@ -44,14 +44,6 @@ const Footer = () => {
             reserved.
           </Slogan>
         </CompanyContainer>
-        {/* <SocialContainer>
-          <SocialIcons href="https://github.com/YuriBSSE">
-            <AiFillGithub size="3rem" />
-          </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com/in/muhammad-ahsan-muneer-36980738/">
-            <AiFillLinkedin size="3rem" />
-          </SocialIcons>
-        </SocialContainer> */}
       </SocialIconsContainer>
     </FooterWrapper>
   );
