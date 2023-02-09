@@ -1,19 +1,19 @@
 export const projects = [
-  {
-    title: "KB-Shop App",
-    description:
-      "KBSHOP is a shopping app connecting customers with influencers and brands to bring curated products and services.",
-    image: "/images/KBShop.png",
-    tags: [
-      "React Native",
-      "Cross Platform",
-      "FCM",
-      "AWS-IVS-SDK",
-      "AWS-SDK-CHIME",
-    ],
-    source: "#",
-    id: 1,
-  },
+  // {
+  //   title: "KB-Shop App",
+  //   description:
+  //     "KBSHOP is a shopping app connecting customers with influencers and brands to bring curated products and services.",
+  //   image: "/images/KBShop.png",
+  //   tags: [
+  //     "React Native",
+  //     "Cross Platform",
+  //     "FCM",
+  //     "AWS-IVS-SDK",
+  //     "AWS-SDK-CHIME",
+  //   ],
+  //   source: "#",
+  //   id: 1,
+  // },
   {
     title: "Peredion App",
     description:
