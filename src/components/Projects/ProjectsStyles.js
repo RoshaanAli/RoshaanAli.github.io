@@ -32,6 +32,15 @@ export const BlogCard = styled.div`
     width: 100%;
   }
 `;
+
+export const BlogCardBtn = styled.button`
+  background-color: transparent;
+  border-width: 0;
+  @media ${(props) => props.theme.breakpoints.sm} {
+    width: 100%;
+  }
+`;
+
 export const TitleContent = styled.div`
   text-align: center;
   z-index: 20;
