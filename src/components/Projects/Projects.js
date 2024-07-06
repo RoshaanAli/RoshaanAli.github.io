@@ -68,7 +68,7 @@ const Projects = () => {
           })}
         </GridContainer>
       </Section>
-      {/* <Modal
+      <Modal
         isOpen={modalIsOpen}
         onAfterOpen={afterOpenModal}
         onRequestClose={closeModal}
@@ -85,7 +85,7 @@ const Projects = () => {
           <button>inside</button>
           <button>the modal</button>
         </form>
-      </Modal> */}
+      </Modal>
     </>
 )};
 

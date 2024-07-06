@@ -13,20 +13,21 @@ const Hero = (props) => (
   <>
     <Section row nopadding>
       <LeftSection>
-        <SectionTitle center>
-          ReactJS, NextJS & React Native Developer
-        </SectionTitle>
         <SectionTitle main center>
+          MERN Stack Developer
+        </SectionTitle>
+        <SectionTitle center>
           Hey there,
         </SectionTitle>
         <SectionText>
-          This is Syed Roshaan Ali. Inquisitive and Highly-motivated software
+          I'm Roshaan. Inquisitive and Highly-motivated software
           engineer, with strong web and mobile application skills.
           Forward-thinker by nature and loves to code. Spends most of my time
           learning and experimenting with anything that looks promising.
         </SectionText>
         <ButtonContainer>
           <Button
+            alt="resume-btn"
             onClick={(e) => {
               e.preventDefault();
               window.location.href = "/files/resume.pdf";
@@ -35,6 +36,7 @@ const Hero = (props) => (
             My Resume
           </Button>
           <Button
+            alt="github-btn"
             onClick={(e) => {
               e.preventDefault();
               window.open(
@@ -46,6 +48,7 @@ const Hero = (props) => (
             Github
           </Button>
           <Button
+          alt="stackoverflow-btn"
             onClick={(e) => {
               e.preventDefault();
               window.open(

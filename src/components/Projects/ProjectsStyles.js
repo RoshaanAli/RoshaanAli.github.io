@@ -31,6 +31,7 @@ export const BlogCard = styled.div`
   @media ${(props) => props.theme.breakpoints.sm} {
     width: 100%;
   }
+  height: 100%
 `;
 
 export const BlogCardBtn = styled.button`
@@ -87,7 +88,7 @@ export const CardInfo = styled.p`
   color: #e4e6e7;
   font-style: 2rem;
   line-height: 24px;
-  text-align: center;
+  text-align: justify;
   margin-top: 2rem;
   @media ${(props) => props.theme.breakpoints.sm} {
     padding:.3rem

@@ -37,14 +37,14 @@ const Footer = () => {
           </LinkItem>
         </LinkColumn>
       </LinkList>
-      <SocialIconsContainer>
+      {/* <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>
             &copy; 2022 <Link href="#"> Syed Roshaan Ali Shah</Link> . All rights
             reserved.
           </Slogan>
         </CompanyContainer>
-      </SocialIconsContainer>
+      </SocialIconsContainer> */}
     </FooterWrapper>
   );
 };

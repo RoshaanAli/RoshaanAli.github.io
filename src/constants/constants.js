@@ -15,6 +15,15 @@ export const projects = [
   //   id: 1,
   // },
   {
+    title: "MentGo Web App",
+    description:
+      "Talk with someone who's been in your shoes. Whether relationships, spirituality, career, identity, recovery or just someone to talk to, MentGo connects you",
+    image: "/images/MentoGO.png",
+    tags: ["NextJS", "FCM", "MUI","Web"],
+    source: "#",
+    id: 1,
+  },
+  {
     title: "Peredion App",
     description:
       "Peredion is a sports prediction. Its offers you all the best online prediction from every corner of the planet with thousands of online prediction markets",
@@ -22,6 +31,15 @@ export const projects = [
     tags: ["React Native", "Notification", "FCM", "Geo Location"],
     source: "#",
     id: 2,
+  },
+  {
+    title: "MassInteract",
+    description:
+      "Empower businesses with a top-tier online presence using advanced technology. Elevate SEO, Google Rankings, customer confidence, and viewer experience.",
+    image: "/images/mass-interact.png",
+    tags: ["NextJS", "API Integration","Web"],
+    source: "#",
+    id: 11,
   },
   {
     title: "Spesa Grocery PWA",
@@ -87,14 +105,34 @@ export const projects = [
     id: 8,
   },
   {
-    title: "MentGo Web App",
+    title: "Ecommerce App",
     description:
-      "Talk with someone who's been in your shoes. Whether relationships, spirituality, career, identity, recovery or just someone to talk to, MentGo connects you",
-    image: "/images/MentoGO.png",
-    tags: ["NextJS", "FCM", "MUI"],
+      "On this users can explore an extensive range of products at their fingertips. With seamless navigation and intuitive design.",
+    image: "/images/ecommerce.png",
+    tags: ["React Native", "Firebase", "FCM"],
     source: "#",
     id: 9,
   },
+  {
+    title: "OIP",
+    description:
+      "Crafted a dynamic productivity app enabling employees to log their daily tasks and interact through a built-in chat feature. The app seamlessly calculates monthly Key Performance Indicators (KPIs) from logged tasks, empowering users to track and improve their performance while fostering collaboration within the team.",
+    image: "/images/oip.png",
+    tags: ["Payments", "Sockets", "FCM"],
+    source: "#",
+    id: 10,
+  },
+  {
+    title: "Coverage Master",
+    description:
+      "Crafted a dynamic productivity app enabling employees to log their daily tasks and interact through a built-in chat feature. The app seamlessly calculates monthly Key Performance Indicators (KPIs) from logged tasks, empowering users to track and improve their performance while fostering collaboration within the team.",
+    image: "/images/coverage-master-1.png",
+    tags: ["ReactJS", "Redux", "Stripe","Puppeteer","Web"],
+    source: "#",
+    id: 11,
+  },
+  
+ 
 ];
 
 export const TimeLineData = [
@@ -143,6 +181,6 @@ export const TimeLineData = [
   },
   {
     year: 2022,
-    text: "Joined ADM as Sr. Mob App Developer."
+    text: "Joined FASCOM LTD. as a Software Engineer."
   },
 ];
