@@ -5,17 +5,23 @@ import {
   SectionText,
   SectionTitle,
   Link,
+  MainSubHeader,
 } from "../../styles/GlobalComponents";
 import Button from "../../styles/GlobalComponents/Button";
-import { ButtonContainer, LeftSection } from "./HeroStyles";
+import { ButtonContainer, Img, LeftSection } from "./HeroStyles";
 
 const Hero = (props) => (
   <>
     <Section row nopadding>
       <LeftSection>
-        <SectionTitle main center>
-          MERN Stack Developer
-        </SectionTitle>
+        <MainSubHeader>
+          <Img>
+            <img alt="roshaan_image" src="/images/dp.png" />
+          </Img>
+          <SectionTitle main center>
+            Sr. React Native/ReactJS Developer
+          </SectionTitle>
+        </MainSubHeader>
         <SectionTitle center>
           Hey there,
         </SectionTitle>
@@ -48,7 +54,7 @@ const Hero = (props) => (
             Github
           </Button>
           <Button
-          alt="stackoverflow-btn"
+            alt="stackoverflow-btn"
             onClick={(e) => {
               e.preventDefault();
               window.open(

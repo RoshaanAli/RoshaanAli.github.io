@@ -24,9 +24,9 @@ import {
 const Footer = () => {
   return (
     <FooterWrapper>
-      <LinkList>
+      {/* <LinkList> */}
         <LinkColumn>
-          <LinkTitle>Email</LinkTitle>
+          {/* <LinkTitle>Email</LinkTitle> */}
           <LinkItem
             href="mailto:roshaanalishah97@gmail.com"
             style={{ justifyContent: "center", alignContent: "center" }}
@@ -36,7 +36,7 @@ const Footer = () => {
             </SendEmail>
           </LinkItem>
         </LinkColumn>
-      </LinkList>
+      {/* </LinkList> */}
       {/* <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>

@@ -23,7 +23,8 @@ align-content: center;
 background: linear-gradient(270deg,#13ADC7 0%,#945DD6 100%);
 border-radius: 50px;
 padding: 10px 0;
-width: 100%
+width: 100%;
+align-items:center;
 // @media ${props => props.theme.breakpoints.md}{
 //   display: flex;
 //   justify-content: space-between;
@@ -160,8 +161,14 @@ export const LinkList = styled.ul`
 export const LinkColumn = styled.div`
 	display: flex;
 	flex-direction: column;
-	max-width: 220px;
-	width: 100%;
+	// max-width: 220px;
+	width: 20%;
+	@media ${props => props.theme.breakpoints.md} {
+		width: 100%;
+	}
+	@media ${props => props.theme.breakpoints.sm} {
+		width: 100%;
+	}
 `
 export const LinkTitle = styled.h4`
 	font-style: normal;

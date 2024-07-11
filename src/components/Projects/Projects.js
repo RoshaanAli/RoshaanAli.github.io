@@ -21,7 +21,7 @@ const Projects = () => {
   const [modalIsOpen, setIsOpen] = useState(false);
 
   function openModal() {
-    setIsOpen(true);
+    // setIsOpen(true);
   }
 
   function afterOpenModal() {
@@ -30,7 +30,7 @@ const Projects = () => {
   }
 
   function closeModal() {
-    setIsOpen(false);
+    // setIsOpen(false);
   }
   return (
     <>
