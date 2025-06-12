@@ -46,7 +46,6 @@ export const Img = styled.div`
   height:200px;
   overflow: hidden;
   border-radius: 100%;
-  background-color:red;
   display: flex;
   justify-content: center;
   align-items: stretch;
