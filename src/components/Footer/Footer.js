@@ -32,7 +32,7 @@ const Footer = () => {
             style={{ justifyContent: "center", alignContent: "center" }}
           >
             <SendEmail>
-              <AiTwotoneMail style={{marginRight:"10px"}} /> Send Email
+              <AiTwotoneMail style={{marginRight:"10px"}} /> Contact
             </SendEmail>
           </LinkItem>
         </LinkColumn>

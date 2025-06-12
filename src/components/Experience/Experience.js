@@ -9,9 +9,9 @@ const data = [
         workingPeriod: 'June 2019 to December 2019',
         postion: "ReactJS Developer",
         responsibilities: [
-            "Contribute to the design and implementation of new features and functionalities for web applications.",
-            "Write clean, reusable, and efficient code following best practices.",
-            "Take initiative in learning new skills and techniques to enhance your development capabilities."
+            "Contributed to the design and implementation of new features and functionalities for web applications.",
+            "Wrote clean, reusable, and efficient code following best practices.",
+            "Took initiative in learning new skills and techniques to enhance your development capabilities."
         ]
     },
     {
@@ -19,10 +19,11 @@ const data = [
         workingPeriod: 'August 2020 to August 2021',
         postion: "Senior Associate (ReactJS | React Native | NextJS)",
         responsibilities: [
-            "Collaborate with design to translate wireframes and mockups into functional components.",
-            "Implement best practices for front-end architecture, design patterns, and code quality.",
-            "Develop and maintain mobile applications using React Native for iOS and Android platforms.",
-            "Ensure seamless integration with back-end services and APIs."
+            "Collaborated with design teams to translate wireframes into functional components.",
+            "Implemented best practices for front-end architecture, design patterns, and code quality.",
+            "Ensured seamless integration with back-end services and APIs.",
+            "Maintained mobile applications using React Native for IOS and Android.",
+            "Applied best practices in front-end architecture and design patterns."
         ]
     },
     {
@@ -30,25 +31,24 @@ const data = [
         workingPeriod: 'August 2021 to March 2022',
         postion: "Team Lead (Web And Mobile Apps)",
         responsibilities: [
-            'Implement pixel-perfect UI components that meet design specifications and ensure cross-browser compatibility.',
-            'Communicate effectively within the team and across departments to ensure smooth project execution.',
-            'Ensure applications meet quality standards, are fully functional, and are delivered on time.',
-            'Provide technical guidance and mentorship to junior developers.',
-            'Conduct code reviews to ensure adherence to coding standards, scalability, and performance.',
-            'Investigate and resolve complex technical issues and bugs.',
-            "Deploy applications to the App Store and Google Play Store."
+            'Implemented pixel-perfect UI components ensuring cross-browser compatibility',
+            'Led cross-functional communication for smooth project execution.',
+            'Ensured application meets quality standards, are fully functional, and are delivered on time.',
+            'Provided technical guidance and mentorship to junior developers.',
+            'Conducted code reviews to ensure scalability and performance.',
+            'Investigated and resolved complex technical issues and bugs.'
         ]
     },
     {
         company: "Fascom Ltd.",
         workingPeriod: '2022 to Present',
-        postion: "Software Engineer",
+        postion: "Software Engineer (React Native)",
         responsibilities: [
-            'Develop reusable components and libraries for future use.',
-            'Ensure the performance, quality, and responsiveness of applications.',
-            'Optimize components for maximum performance across different devices and screen sizes.',
-            'Implement caching mechanisms as needed.',
-            'Identify and troubleshoot performance bottlenecks and resolve bugs to improve application performance.'
+            'Developed reusable components and libraries for future use.',
+            'Optimized application performance, reducing load time by 30% across devices and screen sizes.',
+            'Implement caching mechanisms and troubleshoot performance bottlenecks.',
+            'Deployed applications to the App Store and Google Play Store.',
+            'Ensured application quality, performance, and responsiveness.'
         ]
     }
 ];
